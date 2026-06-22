@@ -1,3 +1,12 @@
+# 🚀 InterviewIQ
+
+![React](https://img.shields.io/badge/React-19-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+![Gemini AI](https://img.shields.io/badge/AI-Google_Gemini-purple)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 # 🚀 InterviewIQ - AI Interview Preparation Platform
 
 > A full-stack AI-powered mock interview platform that helps users practice technical and HR interviews with personalized AI-generated questions and feedback.
